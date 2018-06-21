@@ -1,0 +1,9 @@
+<svg width="360" height="360" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <path fill="#ff0000" stroke-width="0" d="m170,364.25l10,-27l10,27l-10,27l-10,-27z"/>
+  <path fill="#cccccc" stroke-width="0" d="m-14.25,180l10,-27l10,27l-10,27l-10,-27z" transform="rotate(90 -4.25,180) "/>
+  <path fill="#0000ff" stroke-width="0" d="m170,-4.25l10,-27l10,27l-10,27l-10,-27z"/>
+  <path fill="#cccccc" stroke-width="0" d="m354.25,180l10,-27l10,27l-10,27l-10,-27z" transform="rotate(90 364.25,180) "/>
+ </g>
+</svg>
